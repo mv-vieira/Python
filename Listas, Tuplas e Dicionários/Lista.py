@@ -35,3 +35,4 @@ aluno = ['Murilo', 19, 1.79] # Nome, idade e altura
 
 print(type(aluno)) # type 'list'
 print(aluno) # ['Murilo', 19, 1.79]
+
