@@ -9,3 +9,9 @@ print(
     f"CPF: {pessoaf.getCPF()}\n"
     f"Idade: {pessoaf.getIdade()} anos\n"
 )
+
+print(
+    f"Nome: {pessoaj.getNome()}\n"
+    f"CNPJ: {pessoaj.getCNPJ()}\n"
+    f"Idade: {pessoaj.getIdade()} anos\n"
+)
